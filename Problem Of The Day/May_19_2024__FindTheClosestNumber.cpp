@@ -1,3 +1,5 @@
+// Level: EASY
+
 class Solution{
     public:
     int findClosest( int n, int k,int arr[]) 

@@ -1,3 +1,5 @@
+// Level: EASY
+
 class Solution {
   public:
     int findPair(int n, int x, vector<int> &arr) {

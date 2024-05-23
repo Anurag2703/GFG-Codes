@@ -1,3 +1,5 @@
+// Level: EASY
+
 class Solution {
     public:
         int findPeakElement(vector<int>& a) {

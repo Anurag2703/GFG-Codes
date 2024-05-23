@@ -1,3 +1,5 @@
+// Level: MEDIUM
+
 class Solution{
 	public:
 		long long int PowMod(long long int x,long long int n,long long int M){
