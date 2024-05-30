@@ -1,3 +1,5 @@
+// Level: MEDIUM
+
 class Solution {
     public:
         int countPartitions(int n, int d, vector<int>& arr) {

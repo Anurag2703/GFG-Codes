@@ -1,3 +1,5 @@
+// Level: MEDIUM
+
 class Solution {
     public:
         int minimumCost(int n, int w, vector<int> &cost) {

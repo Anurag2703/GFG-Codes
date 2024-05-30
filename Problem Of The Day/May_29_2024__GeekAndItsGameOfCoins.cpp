@@ -1,3 +1,5 @@
+// Level: MEDIUM
+
 class Solution {
     public:
         int wins(int n, int &x, int &y, vector<int>&v){

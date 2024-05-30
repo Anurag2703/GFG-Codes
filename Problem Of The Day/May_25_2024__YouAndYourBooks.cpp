@@ -1,3 +1,5 @@
+// Level: EASY
+
 class Solution {
     public:
         /*You are requried to complete this method */

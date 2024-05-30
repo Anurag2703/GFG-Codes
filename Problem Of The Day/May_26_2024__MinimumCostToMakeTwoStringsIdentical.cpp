@@ -1,3 +1,5 @@
+// Level: MEDIUM
+
 class Solution {
     public:
         int LCS(string x, string y){

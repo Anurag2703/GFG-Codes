@@ -1,3 +1,5 @@
+// Level: MEDIUM
+
 class Solution {
     public:
         int longestSubseq(int n, vector<int> &a) {
