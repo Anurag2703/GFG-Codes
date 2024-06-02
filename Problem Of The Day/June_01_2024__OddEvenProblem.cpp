@@ -1,3 +1,5 @@
+// Level: EASY
+
 class Solution {
     public:
         string oddEven(string s) {
