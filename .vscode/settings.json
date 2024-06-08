@@ -68,7 +68,8 @@
     "unordered_set": "cpp",
     "bitset": "cpp",
     "chrono": "cpp",
-    "algorithm": "cpp"
+    "algorithm": "cpp",
+    "17_Remove duplicates from an unsorted linked list.C": "cpp"
   },
   "C_Cpp.errorSquiggles": "disabled",
   "cSpell.words": [
