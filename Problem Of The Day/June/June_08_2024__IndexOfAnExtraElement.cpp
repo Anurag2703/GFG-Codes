@@ -1,3 +1,5 @@
+// Level: EASY
+
 class Solution {
     public:
         int findExtra(int n, int arr1[], int arr2[]) {

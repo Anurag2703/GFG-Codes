@@ -1,3 +1,5 @@
+// Level: EASY
+
 class Solution {
     public:
         void zigZag(int n, vector<int> &arr) {

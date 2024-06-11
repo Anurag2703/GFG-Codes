@@ -1,3 +1,5 @@
+// Level: MEDIUM
+
 class Solution {
     public:
         long long max_sum(int a[], int n) {

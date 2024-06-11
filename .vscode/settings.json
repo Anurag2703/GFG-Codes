@@ -69,7 +69,21 @@
     "bitset": "cpp",
     "chrono": "cpp",
     "algorithm": "cpp",
-    "17_Remove duplicates from an unsorted linked list.C": "cpp"
+    "17_Remove duplicates from an unsorted linked list.C": "cpp",
+    "forward_list": "cpp",
+    "memory": "cpp",
+    "fstream": "cpp",
+    "functional": "cpp",
+    "future": "cpp",
+    "istream": "cpp",
+    "ostream": "cpp",
+    "shared_mutex": "cpp",
+    "sstream": "cpp",
+    "streambuf": "cpp",
+    "thread": "cpp",
+    "regex": "cpp",
+    "tuple": "cpp",
+    "valarray": "cpp"
   },
   "C_Cpp.errorSquiggles": "disabled",
   "cSpell.words": [

@@ -1,3 +1,5 @@
+// Level: MEDIUM
+
 class Solution {
     public:
         // l and r are input array
