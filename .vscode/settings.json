@@ -85,7 +85,9 @@
     "tuple": "cpp",
     "valarray": "cpp",
     "cmath": "cpp",
-    "complex": "cpp"
+    "complex": "cpp",
+    "random": "cpp",
+    "limits": "cpp"
   },
   "C_Cpp.errorSquiggles": "disabled",
   "cSpell.words": [
